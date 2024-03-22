@@ -4554,7 +4554,7 @@ for (var i = 0; i < all_chats.length; i++) {
 	}
 }
 
-// Mostrar el modal de notificación si hay nuevos mensajes
+// Mostrar el modal de notificación si hay nuevos mensajes.
 if (nuevoMensaje) {
 	showNotification("Tienes nuevos mensajes");
 } else {
